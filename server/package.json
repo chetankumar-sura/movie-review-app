@@ -1,5 +1,5 @@
 {
-  "name": "movie-rating-web",
+  "name": "movie-review-app",
   "version": "1.0.0",
   "description": "Movie Rating and Review Web App",
   "main": "server.js",
