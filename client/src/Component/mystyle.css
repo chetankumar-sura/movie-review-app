@@ -24,9 +24,9 @@
   border: none;
   margin: 3px;
   border-radius: 0px;
-  color: #ffaa3c;
+  color: black;
   margin-top: 5px;
-  background-color: white;
+  background-color: orange;
 }
 
 
@@ -97,8 +97,8 @@
   right: 10px;
   padding: 5px 10px;
   border-radius: 50%;
-  background-color: #ffaa3c;
-  color: rgb(146, 197, 27);
+  background-color: #1c1916;
+  color: white;
 }
 
 .badge:hover {
@@ -117,6 +117,7 @@
 
 h5 {
   margin-top: -10px;
+  color: #000;
 }
 
 .left {
